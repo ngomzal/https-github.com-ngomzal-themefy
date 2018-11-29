@@ -12,6 +12,7 @@
 
 #build output
 /target/
+/logs/
 
 #IDE Files
 .classpath
